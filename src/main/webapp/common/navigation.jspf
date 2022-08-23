@@ -1,0 +1,17 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <a class="navbar-brand" href="index.jsp">
+        <i class="fa-brands fa-codepen"></i> Laboratorio
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav d-flex barraflex">
+            <div class="navbar-nav d-flex">
+                <div><a class="nav-item nav-link" href="index.jsp"><i class="fa-solid fa-dumbbell"></i> Ejercicio 1</a></div>
+                <div><a class="nav-item nav-link" href="banco.jsp"><i class="fa-solid fa-dumbbell"></i> Ejercicio 2</a></div>
+            </div>
+            <div class="p-2 text-white my-name"><i class="fa-solid fa-jedi"></i> DAMPW</div>
+        </div>
+    </div>
+</nav>
